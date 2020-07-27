@@ -8,7 +8,8 @@ math: true
 $$\int f(x) dx $$
 This is a test for math expression.
 
-another test
+another $A$ test
 
 한글이 어떻게 나타나는지 확인할 것.
-크기 조절이 가능한지.
+크기 조절이 `$ a \mathbf{x} $` 가능한지.
+추가 사항

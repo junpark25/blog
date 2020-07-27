@@ -1,4 +1,4 @@
-baseURL = "https://junpark25.github.io"
+baseURL = "/"
 languageCode = "en-us"
 title = "Nothing New Under The Sun"
 theme = "ezhil"
@@ -27,7 +27,7 @@ summaryLength = 20
     mainSections = ["posts"]
 
     # Content types which are excludes Disqus comments.
-    disableDisqusTypes = ["page", "posts"]
+    disableDisqusTypes = ["posts"]
 
     # If social media links are enabled then enable this to fetch icons from CDN instead of hosted on your site.
     featherIconsCDN = true
